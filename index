@@ -2,10 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; URL='https://link.netscorepro.com/widget/bookings/telemedicne-appointments'">
+    <!-- Corregido la sintaxis del meta refresh -->
+    <meta http-equiv="refresh" content="0; URL=https://link.netscorepro.com/widget/bookings/telemedicine-appointments">
     <title>Redirecting...</title>
 </head>
 <body>
-    <p>If you are not redirected, <a href="https://link.netscorepro.com/widget/bookings/telemedicne-appointments">click here</a>.</p>
+    <p>If you are not redirected, <a href="https://link.netscorepro.com/widget/bookings/telemedicine-appointments">click here</a>.</p>
 </body>
 </html>
